@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"90d4dc3b45d27a75","type":"file","file":"Story/Intro Cutscene.md","x":-401,"y":-103,"width":250,"height":323,"color":"3"},
+		{"id":"448be7b1da4dbcff","type":"text","text":"game starts","x":-401,"y":-200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d15bbf05a45e1bb5","fromNode":"448be7b1da4dbcff","fromSide":"bottom","toNode":"90d4dc3b45d27a75","toSide":"top"}
+	]
+}
