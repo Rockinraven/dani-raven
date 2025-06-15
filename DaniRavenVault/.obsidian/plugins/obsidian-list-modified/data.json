@@ -27,7 +27,7 @@
     {
       "path": "Canvases/Timeline.canvas",
       "matchesCriteria": true,
-      "supposedList": "modified"
+      "supposedList": "deleted"
     },
     {
       "path": "res/templates/daily note template.md",
@@ -37,25 +37,50 @@
     {
       "path": "Canvases/Design Inspo.canvas",
       "matchesCriteria": true,
-      "supposedList": "modified"
+      "supposedList": "deleted"
     },
     {
       "path": "Art/Characters/MC.md",
-      "supposedList": "created",
+      "supposedList": "deleted",
       "matchesCriteria": true
     },
     {
       "path": "Art/Characters/NPC 1.md",
-      "supposedList": "created",
+      "supposedList": "deleted",
       "matchesCriteria": true
     },
     {
       "path": "Admin/Success Definition.md",
-      "supposedList": "created",
+      "supposedList": "deleted",
       "matchesCriteria": true
     },
     {
       "path": "Admin/Tasks.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Art/Inspo.canvas",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Story/Intro Cutscene.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Timeline.canvas",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Daily Notes/2025/6. June/2025-06-15.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Story Scenes/Intro Cutscene.md",
       "supposedList": "created",
       "matchesCriteria": true
     }
