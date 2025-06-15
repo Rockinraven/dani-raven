@@ -1,1 +1,7 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "res/images"
+}

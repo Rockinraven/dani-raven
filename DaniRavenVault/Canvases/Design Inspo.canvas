@@ -1,0 +1,52 @@
+{
+  "edges": [
+    {
+      "fromEnd": "arrow",
+      "fromNode": "f3df8728ad23973c",
+      "fromSide": "left",
+      "id": "11fd3a2925132812",
+      "label": "neighbors",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "7dac837fe72ff39b",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "5",
+      "file": "Art/Characters/MC.md",
+      "height": 400,
+      "id": "7dac837fe72ff39b",
+      "type": "file",
+      "width": 240,
+      "x": -840,
+      "y": -596
+    },
+    {
+      "color": "3",
+      "height": 167,
+      "id": "348c5f76e284d8ac",
+      "text": "Place some design inspo here :)",
+      "type": "text",
+      "width": 232,
+      "x": -460,
+      "y": -100
+    },
+    {
+      "file": "Art/Characters/NPC 1.md",
+      "height": 404,
+      "id": "f3df8728ad23973c",
+      "type": "file",
+      "width": 240,
+      "x": -280,
+      "y": -600
+    }
+  ]
+}

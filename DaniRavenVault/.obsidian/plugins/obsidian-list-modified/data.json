@@ -1,0 +1,63 @@
+{
+  "excludedTags": [],
+  "excludedFolders": [],
+  "excludedNameContains": [],
+  "excludedExtensions": [],
+  "outputFormat": "- [[link]]",
+  "separateOutputFormats": false,
+  "createdFormat": "- [[link]]",
+  "modifiedFormat": "- [[link]]",
+  "deletedFormat": "- [[path]]",
+  "timeFormat": "h:mm A",
+  "autoEmbedAttachments": false,
+  "autoCreateLogNote": true,
+  "logNoteType": "daily",
+  "writeInterval": 0,
+  "combineCreatedAndModified": false,
+  "autoRemoveDividers": true,
+  "autoCreateCreatedDivider": false,
+  "autoCreateModifiedDivider": false,
+  "autoCreateDeletedDivider": false,
+  "sortCreated": "none",
+  "sortModified": "none",
+  "sortDeleted": "none",
+  "verboseModeEnabled": false,
+  "lastTrackedDate": "2025-06-15",
+  "trackedFiles": [
+    {
+      "path": "Canvases/Timeline.canvas",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "res/templates/daily note template.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Canvases/Design Inspo.canvas",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "Art/Characters/MC.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Art/Characters/NPC 1.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Admin/Success Definition.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Admin/Tasks.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    }
+  ]
+}

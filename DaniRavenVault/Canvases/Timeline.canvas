@@ -1,0 +1,41 @@
+{
+  "edges": [
+    {
+      "fromNode": "448be7b1da4dbcff",
+      "fromSide": "bottom",
+      "id": "d15bbf05a45e1bb5",
+      "toNode": "90d4dc3b45d27a75",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "4",
+      "height": 60,
+      "id": "448be7b1da4dbcff",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "game starts",
+      "type": "text",
+      "width": 125,
+      "x": -338,
+      "y": -220
+    },
+    {
+      "color": "3",
+      "file": "Story Scenes/Intro Cutscene.md",
+      "height": 263,
+      "id": "90d4dc3b45d27a75",
+      "type": "file",
+      "width": 261,
+      "x": -406,
+      "y": -100
+    }
+  ]
+}

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiGlobe",
-      "LiBrain",
-      "LiCalendar",
-      "LiPalette",
-      "LiPaintbrush2"
+      "LiKanbanSquare",
+      "LiFileCog2",
+      "LiPersonStanding",
+      "LiWalletCards",
+      "LiLayoutDashboard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,9 +34,19 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Story": "LiPencilLine",
-  "Art": "LiPalette",
-  "Timeline.canvas": "LiCalendar",
   "Brainstorming": "LiBrain",
-  "Brainstorming/Setting.md": "LiGlobe"
+  "Brainstorming/Setting.md": "LiGlobe",
+  "Art": "LiPalette",
+  "Canvases/Timeline.canvas": "LiCalendar",
+  "res/images": "LiImages",
+  "res/templates": "LiBookTemplate",
+  "res": "LiBox",
+  "Story Scenes": "LiPencilLine",
+  "Daily Notes": "LiNotebookPen",
+  "Canvases/Design Inspo.canvas": "LiLightbulb",
+  "Canvases": "LiLayoutDashboard",
+  "Canvas Cards": "LiWalletCards",
+  "Art/Characters": "LiPersonStanding",
+  "Admin": "LiFileCog2",
+  "Admin/Tasks.md": "LiKanbanSquare"
 }
