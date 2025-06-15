@@ -1,0 +1,20 @@
+{
+  "daily-notes": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "typewriter-mode:writing-focus-toggle": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "typewriter-mode:typewriter-toggle": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ]
+}
