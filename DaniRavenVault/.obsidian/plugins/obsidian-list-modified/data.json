@@ -58,6 +58,21 @@
       "path": "Admin/Tasks.md",
       "supposedList": "created",
       "matchesCriteria": true
+    },
+    {
+      "path": "Plugins/Online.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Plugins/Custom.md",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Brainstorming/Story Notes.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
     }
   ]
 }

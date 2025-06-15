@@ -1,6 +1,7 @@
 *What will make you feel like "we did it!" at the end?*
 ## Raven
 
+- have fun :)
 - Setting a realistic amount of time where we will be working on this, and sticking to it
 - World has at least:
 	- one finished map
@@ -15,11 +16,25 @@
 			- few bugs or missing interactions
 
 ## Dani
-- 
-
-
+- timeline good, probs 2-3 months
+- 3 characters with full stories behind them
+- like the stretch goals
 ## How do we achieve this?
 - structure?
 - roles?
 - commitment?
+
+# mood/tone
+- Dani needs a bit of business to stay on track
+	- having soft goals throughout
+	- not deadlines
+	- [ ] dani to think more
+	- raven to give list of concrete things that are needed to advance game dev
+		- allows space for more nebulous thought about like, worldbuilding while also keeping dev work on track
+- schedule
+	- 3 months
+	- weekly async check-in
+	- bi-monthly 15 min irl chat
+	- **monthly big meeting for progress and review**
+		- sundays and tuesdays no work, probs **sundays** will work best
 - 
