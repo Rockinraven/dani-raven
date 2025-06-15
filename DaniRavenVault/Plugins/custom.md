@@ -1,0 +1,1 @@
+- disable click to walk
