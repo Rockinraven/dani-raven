@@ -10,7 +10,6 @@
   "obsidian-emoji-toolbar",
   "nldates-obsidian",
   "obsidian-banners",
-  "advanced-canvas",
   "obsidian-icons-plugin",
   "obsidian-list-modified",
   "novel-word-count",
@@ -20,5 +19,6 @@
   "typewriter-mode",
   "writing-goals",
   "custom-sort",
-  "creases"
+  "creases",
+  "advanced-canvas"
 ]
